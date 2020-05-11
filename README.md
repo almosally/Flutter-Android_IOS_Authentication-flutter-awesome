@@ -3,12 +3,12 @@
 A new Flutter application.
 
 **LogIn**
-![alt text](https://github.com/almosally/Flutter-Android_IOS_Authentication-flutter-awesome/blob/master/Screenshot_1589204199.png?raw=true)
+![alt tag](https://github.com/almosally/Flutter-Android_IOS_Authentication-flutter-awesome/blob/master/Screenshot_1589204199.png?raw=true)
 
-**Register
+**Register**
 ![alt text](https://github.com/almosally/Flutter-Android_IOS_Authentication-flutter-awesome/blob/master/Screenshot_1589204228.png?raw=true)
 
-**Profile
+**Profile**
 ![alt text](https://github.com/almosally/Flutter-Android_IOS_Authentication-flutter-awesome/blob/master/Screenshot_1589202940.png?raw=true)
 
 ## Getting Started

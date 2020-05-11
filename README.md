@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-**LogIn
+**LogIn**
 ![alt text](https://github.com/almosally/Flutter-Android_IOS_Authentication-flutter-awesome/blob/master/Screenshot_1589204199.png?raw=true)
 
 **Register
